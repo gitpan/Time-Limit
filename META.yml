@@ -31,4 +31,4 @@ resources:
   homepage: https://metacpan.org/release/Time-Limit
   license: http://dev.perl.org/licenses/
   repository: https://github.com/tobyink/p5-time-limit
-version: 0.001
+version: 0.002
